@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hantaray&label=Profile%20views&color=0e75b6&style=flat" alt="hantaray" /> </p>
 
-- 📫 How to reach me: [My website](https://www.alexander-hantke.com/) <img align="center" src="https://github.com/hantaray/hantaray/blob/46094405594bedee7d6327cb40036e81520241f5/assets/icons/linkedin.png" alt="linkedin icon" height="40" width="40" />
+- 📫 How to reach me: <a href="https://www.alexander-hantke.com/" target="_blank"><img align="center" src="https://github.com/hantaray/hantaray/blob/0aec4fc349e87ffdb227056f4ab6e52ac0249931/assets/icons/alexander-hantke-logo5.png" alt="linkedin icon" height="40" width="40" /></a> <a href="https://www.linkedin.com/in/alexander-hantke/?locale=en_US" target="_blank"><img align="center" src="https://github.com/hantaray/hantaray/blob/46094405594bedee7d6327cb40036e81520241f5/assets/icons/linkedin.png" alt="linkedin icon" height="40" width="40" /></a> 
   </br>
 - ⚡ Fun fact: As a teenager <img align="center" src="https://github.com/hantaray/hantaray/blob/137e0362d3d60b2e35ee01e70ca7fe4d5c4b71e5/assets/icons/boy.png" alt="boy icon" height="30" width="40" /> I was german champion <img align="center" src="https://github.com/hantaray/hantaray/blob/4810668198379c853bcd8126b74e7453cbece692/assets/icons/gold-medal.png" alt="gold-medal icon" height="40" width="40" /> in finswimming (monofin) <img align="center" src="https://github.com/hantaray/hantaray/blob/137e0362d3d60b2e35ee01e70ca7fe4d5c4b71e5/assets/icons/dolphin.png" alt="dolphin icon" height="30" width="40" />
 
