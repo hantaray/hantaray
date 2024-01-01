@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hantaray&label=Profile%20views&color=0e75b6&style=flat" alt="hantaray" /> </p>
 
 - 📫 How to reach me: [Website](https://www.alexander-hantke.com/) [LinkedIn](https://www.linkedin.com/in/alexander-hantke/?locale=en_US)
-- ⚡ Fun fact: As a teenager ![boy](https://github.com/hantaray/hantaray/blob/137e0362d3d60b2e35ee01e70ca7fe4d5c4b71e5/assets/icons/boy.png) I was a german champion in finswimming (monofin) ![dophin](https://github.com/hantaray/hantaray/blob/137e0362d3d60b2e35ee01e70ca7fe4d5c4b71e5/assets/icons/dolphin.png)
+- ⚡ Fun fact: As a teenager <img align="center" src="https://github.com/hantaray/hantaray/blob/137e0362d3d60b2e35ee01e70ca7fe4d5c4b71e5/assets/icons/boy.png" alt="boy icon" height="30" width="40" /> I was a german champion in finswimming (monofin) <img align="center" src="https://github.com/hantaray/hantaray/blob/137e0362d3d60b2e35ee01e70ca7fe4d5c4b71e5/assets/icons/dolphin.png" alt="dolphin icon" height="30" width="40" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hantaray&show_icons=true&locale=en" alt="hantaray" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hantaray&" alt="hantaray" /></p>
 
