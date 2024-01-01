@@ -1,3 +1,5 @@
+![logo]([https://github.com/hantaray/hantaray/blob/72b1983f7e61b1d2e8008db74f05f89697ca7717/assets/images/back_github.jpg])
+
 <h1 align="center">Hi there 👋 I'm Alex</h1>
 <h3 align="center">A Full-Stack developer from Berlin, Germany with 7+ years exeperience in Web-, Mobile- and Games-Development</h3>
 
