@@ -1,7 +1,9 @@
-![logo](https://github.com/hantaray/hantaray/blob/72b1983f7e61b1d2e8008db74f05f89697ca7717/assets/images/back_github.jpg)
+![logo](https://github.com/hantaray/hantaray/blob/28ac115d9d41fc0551ca4af7c29bdcb942ad7a74/assets/images/back_github.jpg)
 
 <h1 align="center">Hi there 👋 I'm Alex</h1>
 <h3 align="center">A Full-Stack developer from Berlin, Germany with 7+ years exeperience in Web-, Mobile- and Games-Development</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hantaray&label=Profile%20views&color=0e75b6&style=flat" alt="hantaray" /> </p>
 
 - 📫 How to reach me: [Website](https://www.alexander-hantke.com/) [LinkedIn](https://www.linkedin.com/in/alexander-hantke/?locale=en_US)
 - ⚡ Fun fact: I was a german champion in finswimming (monofin)
