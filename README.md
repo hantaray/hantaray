@@ -10,5 +10,6 @@
 - ⚡ Fun fact: As a teenager <img align="center" src="https://github.com/hantaray/hantaray/blob/137e0362d3d60b2e35ee01e70ca7fe4d5c4b71e5/assets/icons/boy.png" alt="boy icon" height="30" width="40" /> I was german champion <img align="center" src="https://github.com/hantaray/hantaray/blob/4810668198379c853bcd8126b74e7453cbece692/assets/icons/gold-medal.png" alt="gold-medal icon" height="40" width="40" /> in finswimming (monofin) <img align="center" src="https://github.com/hantaray/hantaray/blob/137e0362d3d60b2e35ee01e70ca7fe4d5c4b71e5/assets/icons/dolphin.png" alt="dolphin icon" height="30" width="40" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hantaray&show_icons=true&locale=en" alt="hantaray" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hantaray&" alt="hantaray" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hantaray&layout=compact)
 
 <a href="https://www.flaticon.com/free-icons/dolphin" title="dolphin icons">Icons created by Freepik - Flaticon</a>
